@@ -18,3 +18,13 @@ def sum(array)
   end
   return result
 end
+
+def multiply(array)
+end
+
+def power
+end
+
+def factorial
+
+end
